@@ -28,6 +28,11 @@ body {
     font-size: 24px;
 }
 
+.thumbnail a>img, .thumbnail>img {
+    min-width: 263px;
+    max-height: 197px;
+}
+
 /* Styles for the gallery */
 
 .tz-gallery {
